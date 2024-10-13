@@ -1,1 +1,1 @@
-Make sure that you compile and run all files in the sort folder, or else you will get an error when running. 
+This program contains a swap function that will swap two given numbers with each other. Always make sure that you compile and run all files in the sort folder, or else you will get an error when running. 
